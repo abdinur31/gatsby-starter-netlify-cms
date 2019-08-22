@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Dutch in Mogadishu
-image: /img/home-jumbotron.jpg
+image: /img/mogadishu_2.jpg
 heading: Dutch in Mogadishu
 subheading: Nederlandse vereniging in Somalie
 mainpitch:
